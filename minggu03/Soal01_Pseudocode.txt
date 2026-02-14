@@ -1,0 +1,13 @@
+Mulai
+Input n
+Jika n ≤ 1 Maka
+    Tampilkan "Bukan Prima"
+Else
+    i ← 2
+    Selama i < n Lakukan
+        Jika n mod i = 0 Maka
+            Tampilkan "Bukan Prima"
+            Selesai
+        i ← i + 1
+    Tampilkan "Bilangan Prima"
+Selesai

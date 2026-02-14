@@ -1,0 +1,13 @@
+Mulai
+  Input a, b, c
+
+  Hitung diskriminan D = b^2 - 4*a*c
+
+  Jika D > 0 maka
+      Tampilkan "Akar Real dan Berlainan"
+  Jika D = 0 maka
+      Tampilkan "Akar Real dan Kembar"
+  Jika D < 0 maka
+      Tampilkan "Akar Imajiner / Tidak Real / Khayal"
+
+Selesai
